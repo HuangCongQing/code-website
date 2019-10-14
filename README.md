@@ -3,6 +3,8 @@
 
 @ [ChungKing](https://github.com/HuangCongQing/code-website)，若fork或star请注明来源
 
+https://pastebin.com/
+
 
 ### 学习编程网站
 
