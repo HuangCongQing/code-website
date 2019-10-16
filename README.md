@@ -20,7 +20,11 @@ https://pastebin.com/
 
 
 ### 在线编程
-http://www.dooccn.com/python3/
+* http://www.dooccn.com/python3/
+
+* https://tool.lu/
+
+* https://c.runoob.com/compile/12
 
 ### License
 
